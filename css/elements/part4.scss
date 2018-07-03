@@ -1,0 +1,78 @@
+.part4 {
+    background: url(../images/put.png);
+    background-repeat: no-repeat;
+    background-position-x: 23em;
+    background-position-y: 10em;
+}
+
+
+.part4-h {
+    margin: 100px 0 0 0;
+    font-size: 40px;
+    letter-spacing: -2px;
+    color: rgb(34,34,34);
+    font-family: "Montserrat";
+    font-weight: bold;
+    text-align: center;
+}
+
+.part4-p-lg {
+    
+    font-size: 20px;
+    letter-spacing: 0px;
+    color: rgb(119,119,119);
+    font-family: "Roboto Slab";
+    text-align: center;
+}
+
+.part4-p-mid {
+    margin-top: 90px;
+    font-size: 18px;
+    letter-spacing: 0px;
+    line-height: 75px;
+    color: rgb(34,34,34);
+    font-family: "Montserrat";
+    font-weight: bold;
+}
+
+.part4-p-sm {
+    margin-top: 15px;
+    width: 500px;
+    max-width: 100%;
+    font-size: 16px;
+    letter-spacing: 0px;
+    color: rgb(119,119,119);
+    font-family: "Roboto Slab";
+}
+
+table {
+
+}
+
+.part4-td-a {
+    padding-left: 5px;
+    font-size: 18px;
+    letter-spacing: 0px;
+    color: rgb(34,34,34);
+    font-family: "Montserrat";
+    font-weight: bold;
+    vertical-align: bottom;
+   
+}
+
+.part4-td-b {
+    padding-left: 5px;
+    font-size: 16px;
+    letter-spacing: 0px;
+    color: rgb(119,119,119);
+    font-family: "Roboto Slab";
+    vertical-align: top;
+}
+
+a {
+    font-size: 16px;
+    letter-spacing: 0px;
+    color: rgb(124,197,118);
+    font-family: "Montserrat";
+    font-weight: bold;
+}

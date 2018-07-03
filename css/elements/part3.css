@@ -1,0 +1,55 @@
+.justRelax {
+  background-image: url("../images/gear2.png"); }
+
+.part3 {
+  background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.5)), url(../images/Background2.png);
+  background-repeat: no-repeat;
+  position: relative;
+  left: 27%; }
+
+.part3-h {
+  font-size: 40px;
+  letter-spacing: -2px;
+  color: white;
+  font-family: "Montserrat";
+  font-weight: bold; }
+
+.part3-p {
+  width: 700px;
+  max-width: 100%;
+  padding-top: 3em;
+  font-size: 16px;
+  letter-spacing: 0px;
+  color: #cccccc;
+  font-family: "Roboto Slab"; }
+
+.part3-div {
+  margin: 6em 0 1em 6em; }
+
+span {
+  font-size: 40px;
+  letter-spacing: -2px;
+  color: #7bc575;
+  font-family: "Montserrat";
+  font-weight: bold; }
+
+ul {
+  margin: 0 0 0 5em; }
+
+li {
+  padding-left: 10px;
+  list-style: none;
+  font-size: 16px;
+  letter-spacing: 0px;
+  color: #cccccc;
+  font-family: "Roboto Slab";
+  display: inline; }
+
+.checkmark1 {
+  width: 30em;
+  border: 1px solid red; }
+
+.part3-but {
+  margin: 3em 0 4em 10em; }
+
+/*# sourceMappingURL=part3.css.map */
